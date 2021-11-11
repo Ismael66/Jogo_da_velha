@@ -1,5 +1,6 @@
 # Jogo_da_velha
 >Status: Projeto Completo
+
 ![Gif jogo da velha funcionando](jv3..0.gif);
 ## Desenvolvimento
 Esse projeto imita um jogo da velha simples, com todas as funcionalidades padrões. Nele optei por utilizar principalmente funções, arrays e ForIn, maneira que colaborou e muito para a minha completa compreensão de tais assuntos.  
